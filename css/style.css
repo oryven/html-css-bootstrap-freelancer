@@ -5,7 +5,9 @@
     border: 1px solid white;
 }
 
-.col {
+
+
+.m_col {
     background-color: brown;
     height: 200px;
 }
@@ -17,5 +19,10 @@ header {
 
 .jumbotron {
     background-color: #1abc9c;
-    height: 400px;
+    height: 300px;
+}
+
+.about-us {
+    background-color: #1abc9c;
+    height: 300px;
 }
