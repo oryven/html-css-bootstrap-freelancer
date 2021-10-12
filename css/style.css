@@ -62,7 +62,7 @@ header {
 }
 
 .immagine img {
-    width: 350px;
+    width: 80%;
     border-radius: 10px;
     margin: 5px 0;
 }
@@ -74,7 +74,11 @@ header {
 /* about us */
 
 .about-us {
+    padding-top: 20px;
+    background-color: #1abc9c;
+    text-align: center;
     color: white;
+    min-height: 300px;
 }
 
 .about-us p {
@@ -95,14 +99,6 @@ button {
 
 }
 
-
-
-
-.about-us {
-    text-align: center;
-    background-color: #1abc9c;
-    min-height: 300px;
-}
 
 /* footer */
 
